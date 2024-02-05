@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Search_Employee_Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec2d7ff2-dd90-4f7b-aef2-d46194426b5b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4109aa5d-b038-404e-aa6a-74cc84f7be7f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4109aa5d-b038-404e-aa6a-74cc84f7be7f</id>
+      <masked>false</masked>
+      <name>employeeName</name>
+   </variable>
+</TestCaseEntity>
